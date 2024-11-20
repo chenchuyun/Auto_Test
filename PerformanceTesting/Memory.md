@@ -96,6 +96,9 @@ MemAvailable--已用内存
 
 >adb shell dumpsys meminfo [pkg or pid]
 
+![image](https://github.com/user-attachments/assets/007d7126-d2a3-4c6f-8f78-d4631ccafe94)
+
+
 ## 自动化获取性能数据
 
 前面我们使用adb命令获取CPU，内存性能数据；
