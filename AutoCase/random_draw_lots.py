@@ -66,7 +66,6 @@ def random_chooser():
 
 # 示例使用
 if __name__ == "__main__":
-    # options = ["楚云", "森威", "明宽"]
     # chosen_item = random_chooser(options)
     # print(f"随机选择的是: {chosen_item}")
     root = tk.Tk()
